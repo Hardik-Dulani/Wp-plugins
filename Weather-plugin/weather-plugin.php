@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Weather Plugin
+Plugin Name: Hardik's Weather Plugin
 Description: A WordPress plugin for displaying weather information.
 Version: 1.0
 Author: Hardik Dulani
