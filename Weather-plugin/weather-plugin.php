@@ -87,7 +87,7 @@ function weather_shortcode($atts) {
         });
 
         function fetchWeather(cityId) {
-            var apiKey = '0c9661493b748ff5d257f29caca6c5d9';
+            var apiKey = 'YOUR API from OPEN WEATHER MAP';
 
             $.ajax({
                 url: 'http://api.openweathermap.org/data/2.5/weather',
